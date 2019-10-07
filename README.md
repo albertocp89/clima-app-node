@@ -2,6 +2,7 @@
 
 
 Recuerden ejecutar ```npm install``` para las librerías
+El Readme está modificado
 
 
 ## Ejemplo:
